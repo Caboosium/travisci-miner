@@ -15,4 +15,4 @@ script:
  - cd bin/
  - chmod +x *
  - ls
- - # ./xmr-stak-cpu
+ 
