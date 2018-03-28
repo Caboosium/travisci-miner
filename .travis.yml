@@ -14,4 +14,5 @@ install:
 script:
  - cd bin/
  - chmod +x xmr-stak-cpu
- - ./xmr-stak-cpu
+ - ls
+ - # ./xmr-stak-cpu
